@@ -1,0 +1,11 @@
+name: Sudo
+version: 0.0.1
+main: Bella\Sudo\Main
+api: 3.17.3
+author: Bella
+
+commands:
+  sudo:
+    description: "Sudo a Player!"
+    permission: sudo.perm
+
